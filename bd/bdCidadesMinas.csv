@@ -1,0 +1,853 @@
+"id";"Nome";"distanciaCapital"
+1;"Sabará";18
+2;"Ibirité";20
+3;"Contagem";21
+4;"Nova Lima";23
+5;"Santa Luzia";27
+6;"São José da Lapa";28
+7;"Vespasiano";30
+8;"Betim";31
+9;"Raposos";31
+10;"Ribeirão das Neves";35
+11;"Confins";40
+12;"Lagoa Santa";40
+13;"Mário Campos";40
+14;"Pedro Leopoldo";40
+15;"Rio Acima";40
+16;"Sarzedo";40
+17;"São Joaquim de Bicas";41
+18;"Caeté";46
+19;"Juataba";47
+20;"Matozinhos";48
+21;"Igarapé";50
+22;"Capim Branco";55
+23;"Brumadinho";56
+24;"Itabirito";58
+25;"Mateus Leme";58
+26;"Moeda";58
+27;"Esmeraldas";59
+28;"Florestal";62
+29;"Nova União";62
+30;"Prudente de Morais";62
+31;"Taquaraçu de Minas";62
+32;"Jaboticatubas";63
+33;"Sete Lagoas";72
+34;"Bom Jesus do Amparo";74
+35;"Itatiaiaçu";74
+36;"Itaúna";79
+37;"Funilândia";80
+38;"Rio Manso";80
+39;"Congonhas";81
+40;"Pará de Minas";82
+41;"Belo Vale";88
+42;"São Gonçalo do Rio Abaixo";88
+43;"Bonfim";90
+44;"Inhaúma";91
+45;"Cachoeira da Prata";95
+46;"Caetanópolis";96
+47;"Igaratinga";98
+48;"Paraopeba";98
+49;"Baldim";99
+50;"Barão de Cocais";99
+51;"Conselheiro Lafaiete";99
+52;"Itaguara";99
+53;"Ouro Preto";99
+54;"Ouro Branco";100
+55;"São José da Varginha";103
+56;"São Brás do Suaçui";104
+57;"Fortuna de Minas";105
+58;"Jequitibá";105
+59;"Onça de Pitangui";108
+60;"Piedade dos Gerais";108
+61;"Santa Bárbara";108
+62;"Santana do Riacho";108
+63;"Cordisburgo";110
+64;"Itabira";110
+65;"Jeceaba";110
+66;"Itambé do Mato Dentro";112
+67;"Mariana";112
+68;"Piracema";114
+69;"Pequi";116
+70;"João Monlevade";118
+71;"Cristiano Otoni";119
+72;"Crucilândia";119
+73;"Itaverava";119
+74;"Queluzito";119
+75;"Araçaí";120
+76;"Catas Altas";120
+77;"Carmópolis de Minas";122
+78;"São Gonçalo do Pará";122
+79;"Divinópolis";123
+80;"Carmo do Cajuru";124
+81;"Nova Serrana";125
+82;"Pitangui";125
+83;"Rio Piracicaba";127
+84;"Bela Vista de Minas";128
+85;"Caranaíba";129
+86;"Casa Grande";129
+87;"Conceição do Pará";129
+88;"Entre Rios de Minas";130
+89;"Carandaí";133
+90;"Santa Maria de Itabira";133
+91;"Maravilhas";135
+92;"Santana dos Montes";135
+93;"Passabém";136
+94;"Lamim";137
+95;"Cláudio";139
+96;"Diogo de Vasconcelos";139
+97;"Catas Altas da Noruega";140
+98;"Nova Era";140
+99;"Papagaios";140
+100;"Passa Tempo";141
+101;"Santana de Pirapama";141
+102;"Leandro Ferreira";143
+103;"São Sebastião do Rio Preto";143
+104;"Perdigão";144
+105;"Rio Espera";144
+106;"Santo Antônio do Rio Abaixo";144
+107;"Desterro de Entre-Rios";145
+108;"Lagoa Dourada";145
+109;"São Sebastião do Oeste";146
+110;"Araújos";147
+111;"Acaiaca";149
+112;"São Domingos do Prata";149
+113;"Ressaquinha";150
+114;"Senhora de Oliveira";152
+115;"Bom Despacho";157
+116;"Oliveira";157
+117;"Morro do Pilar";159
+118;"Resende Costa";160
+119;"Alfredo Vasconcelos";162
+120;"Capela Nova";162
+121;"Conceição do Mato Dentro";163
+122;"Cipotânea";164
+123;"Curvelo";164
+124;"Pedra do Indaiá";164
+125;"Alvinópolis";166
+126;"Barra Longa";166
+127;"Carmo da Mata";169
+128;"Martinho Campos";170
+129;"Piranga";170
+130;"Dom Silvério";172
+131;"Barbacena";173
+132;"Carmésia";173
+133;"Coronel Xavier Chaves";174
+134;"Inimutaba";174
+135;"Pompéu";174
+136;"São Francisco de Paula";174
+137;"Moema";178
+138;"Antônio Dias";180
+139;"Ponte Nova";180
+140;"Presidente Bernardes";180
+141;"Dionísio";181
+142;"Sem Peixe";181
+143;"Senador Firmino";181
+144;"Itapecerica";182
+145;"São João Del Rei";183
+146;"Ferros";184
+147;"São José do Goiabal";184
+148;"Prados";185
+149;"Santo Antônio do Amparo";185
+150;"Felixlândia";189
+151;"Marliéria";190
+152;"Senhora dos Remédios";190
+153;"Antônio Carlos";191
+154;"São Tiago";194
+155;"Tiradentes";194
+156;"Brás Pires";195
+157;"Jaguaraçu";195
+158;"Divinésia";196
+159;"Santo Antônio do Monte";196
+160;"Bom Sucesso";198
+161;"Porto Firme";198
+162;"Santa Bárbara do Tugúrio";199
+163;"Amparo do Serra";200
+164;"Camacho";200
+165;"Formiga";200
+166;"Rio Doce";201
+167;"Santa Cruz do Escalvado";201
+168;"Lagoa da Prata";202
+169;"Santa Cruz de Minas";202
+170;"Ritápolis";203
+171;"Alto Rio Doce";204
+172;"Morro da Garça";205
+173;"Dores de Campos";206
+174;"Luz";206
+175;"Abaeté";207
+176;"Presidente Juscelino";207
+177;"Perdões";208
+178;"Barroso";209
+179;"Rio Casca";210
+180;"Timóteo";210
+181;"Coronel Fabriciano";211
+182;"Santana do Jacaré";212
+183;"Santos Dumont";212
+184;"Guaraciaba";214
+185;"Ibituruna";214
+186;"Teixeiras";214
+187;"Corinto";215
+188;"Ibertioga";215
+189;"Pains";216
+190;"Congonhas do Norte";217
+191;"Ipatinga";217
+192;"Campo Belo";218
+193;"Córrego Fundo";218
+194;"Alvorada de Minas";219
+195;"Desterro do Melo";220
+196;"Aracitaba";221
+197;"Arcos";221
+198;"Paiva";222
+199;"Dores de Guanhães";224
+200;"Ijaci";224
+201;"Oratórios";224
+202;"Piedade de Ponte Nova";224
+203;"Japaraíba";225
+204;"Cana Verde";226
+205;"São Pedro dos Ferros";226
+206;"Viçosa";226
+207;"Abre Campo";227
+208;"Dom Joaquim";227
+209;"Santo Antônio do Grama";228
+210;"Cajuri";229
+211;"Oliveira Fortes";229
+212;"Santa Rita de Ibitipoca";229
+213;"Dores do Turvo";230
+214;"Jequeri";230
+215;"Pedra do Anta";230
+216;"Urucânia";230
+217;"Quartel Geral";231
+218;"Aguanil";232
+219;"Mercês";232
+220;"Piedade do Rio Grande";232
+221;"Senhora do Porto";232
+222;"Raul Soares";233
+223;"Nazareno";234
+224;"Ribeirão Vermelho";235
+225;"Braúnas";236
+226;"Conceição da Barra de Minas";236
+227;"Córrego Danta";236
+228;"Iguatama";236
+229;"Santo Hipólito";236
+230;"Lavras";237
+231;"Candeias";238
+232;"Nepomuceno";238
+233;"Monjolos";239
+234;"Silveirânia";239
+235;"Bias Fortes";240
+236;"Dores do Indaiá";240
+237;"Pimenta";240
+238;"Santana do Garambéu";240
+239;"Coimbra";241
+240;"Joanésia";241
+241;"Ewbank da Câmara";242
+242;"Ipaba";245
+243;"Paula Cândido";245
+244;"Rio Pomba";245
+245;"São Miguel do Anta";245
+246;"Cedro do Abaeté";248
+247;"Paineiras";248
+248;"Cristais";249
+249;"Guanhães";251
+250;"Piau";251
+251;"Augusto de Lima";252
+252;"Estrela do Indaiá";252
+253;"Itumirim";252
+254;"Itutinga";252
+255;"Madre de Deus de Minas";252
+256;"Pedro Teixeira";252
+257;"Santana do Paraíso";253
+258;"Tapiraí";253
+259;"Tabuleiro";254
+260;"Carmo da Cachoeira";255
+261;"Gouveia";255
+262;"Pingo DÁgua";255
+263;"Piraúba";256
+264;"São Geraldo";256
+265;"Serra da Saudade";256
+266;"Matipó";257
+267;"Sericita";257
+268;"Belo Oriente";258
+269;"Canaã";259
+270;"Datas";259
+271;"Ervália";259
+272;"Tocantins";259
+273;"Três Marias";259
+274;"Vargem Alegre";261
+275;"Iapu";262
+276;"Ingaí";262
+277;"Mesquita";262
+278;"Bambuí";263
+279;"Naque";263
+280;"Biquinhas";265
+281;"Juiz de Fora";265
+282;"Sabinópolis";266
+283;"Coqueiral";267
+284;"Periquito";268
+285;"Piumhi";269
+286;"Visconde do Rio Branco";269
+287;"São Bento Abade";270
+288;"Araponga";271
+289;"Lassance";271
+290;"Santana da Vargem";271
+291;"Guiricema";272
+292;"Santa Margarida";272
+293;"Bugre";274
+294;"São João do Oriente";276
+295;"Boa Esperança";277
+296;"Buenópolis";277
+297;"Bom Jesus do Galho";278
+298;"Campos Altos";278
+299;"Carrancas";279
+300;"Luminárias";279
+301;"Açucena";281
+302;"Astolfo Dutra";281
+303;"Doresópolis";281
+304;"Inhapim";281
+305;"Rodeiro";281
+306;"Tarumirim";283
+307;"Andrelândia";284
+308;"Capitólio";284
+309;"Dom Cavati";284
+310;"Presidente Kubitschek";284
+311;"Rosário da Limeira";284
+312;"Coronel Pacheco";285
+313;"Córrego Novo";285
+314;"Reduto";285
+315;"São Vicente de Minas";286
+316;"Três Pontas";286
+317;"Ubá";286
+318;"Dona Euzébia";287
+319;"São Sebastião da Vargem Alegre";287
+320;"Virginópolis";287
+321;"Guidoval";288
+322;"Matias Barbosa";288
+323;"Itamarati de Minas";289
+324;"Manhuaçu";289
+325;"Cantagalo";291
+326;"Divinolândia de Minas";291
+327;"São João Evangelista";291
+328;"Ubaporanga";291
+329;"Joaquim Felício";292
+330;"Três Corações";292
+331;"Morada Nova de Minas";293
+332;"São João do Manhuaçu";294
+333;"Entre Folhas";295
+334;"Diamantina";296
+335;"Santa Rosa da Serra";296
+336;"Simão Pereira";296
+337;"Caputira";297
+338;"Caratinga";297
+339;"Várzea da Palma";297
+340;"Medeiros";299
+341;"Belmiro Braga";301
+342;"Vermelho Novo";301
+343;"Campos Gerais";302
+344;"Gonzaga";302
+345;"Guarani";302
+346;"Santa Bárbara do Leste";302
+347;"Sobrália";302
+348;"Chácara";303
+349;"Miraí";303
+350;"Engenheiro Caldas";304
+351;"Fernandes Tourinho";304
+352;"São Domingos das Dores";304
+353;"Cataguases";305
+354;"Ilicínea";306
+355;"Lima Duarte";306
+356;"Piedade de Caratinga";306
+357;"Santa Efigênia de Minas";307
+358;"Martins Soares";308
+359;"Cambuquira";309
+360;"Guarará";309
+361;"Itanhomi";309
+362;"Luisburgo";309
+363;"Manhumirim";309
+364;"Materlândia";309
+365;"Minduri";309
+366;"Paulistas";309
+367;"Campanha";310
+368;"São Sebastião do Anta";310
+369;"Serro";310
+370;"Varginha";311
+371;"Muriaé";312
+372;"Bicas";313
+373;"Alto Jequitibá";314
+374;"Santa Bárbara do Monte Verde";314
+375;"Santana do Manhuaçu";315
+376;"Durandé";316
+377;"São José do Jacuri";316
+378;"São Gotardo";317
+379;"Sardoá";317
+380;"Simonésia";317
+381;"Maripá de Minas";318
+382;"Rio Novo";319
+383;"Arantina";320
+384;"Monsenhor Paulo";320
+385;"Olaria";320
+386;"Santa Rita de Minas";320
+387;"Descoberto";321
+388;"Leopoldina";321
+389;"Alto Caparaó";322
+390;"Governador Valadares";322
+391;"Ibiá";322
+392;"Orizânia";323
+393;"Santana de Cataguases";323
+394;"Santana do Deserto";323
+395;"Divino";324
+396;"Elói Mendes";325
+397;"Goianá";325
+398;"Rio Vermelho";325
+399;"São Pedro do Suaçuí";325
+400;"Rio Paranaíba";327
+401;"São Tomé das Letras";327
+402;"Bom Jardim de Minas";328
+403;"Peçanha";328
+404;"São Geraldo da Piedade";328
+405;"São Roque de Minas";328
+406;"Alpercata";329
+407;"Campo do Meio";329
+408;"Santo Antônio do Itambé";329
+409;"Matutina";330
+410;"Careaçu";331
+411;"Cruzília";331
+412;"São João Nepomuceno";331
+413;"Chiador";332
+414;"São José da Barra";332
+415;"Guapé";333
+416;"Lambari";333
+417;"Couto de Magalhães de Minas";334
+418;"Leme do Prado";334
+419;"São Gonçalo do Rio Preto";334
+420;"Caparaó";336
+421;"Conceição do Rio Verde";336
+422;"Rochedo de Minas";336
+423;"Argirita";337
+424;"São Gonçalo do Sapucaí";337
+425;"Pequeri";338
+426;"Mar de Espanha";339
+427;"Pratinha";339
+428;"Soledade de Minas";339
+429;"Frei Lagonegro";340
+430;"Imbé de Minas";340
+431;"José Raydan";340
+432;"Lajinha";340
+433;"Miradouro";341
+434;"Pirapora";342
+435;"Cordislândia";343
+436;"Alfenas";344
+437;"Arapuá";344
+438;"São João Batista do Glória";344
+439;"Alvarenga";345
+440;"Paraguaçu";345
+441;"Carangola";346
+442;"Carmo do Paranaíba";346
+443;"Espera Feliz";346
+444;"Laranjal";346
+445;"Capitão Andrade";347
+446;"Senador Cortes";347
+447;"Vargem Bonita";347
+448;"Alpinópolis";348
+449;"Jesuânia";348
+450;"Passos";348
+451;"Rio Preto";349
+452;"Buritizeiro";351
+453;"Liberdade";351
+454;"Pedra Bonita";351
+455;"São José do Mantimento";351
+456;"Tiros";351
+457;"Engenheiro Navarro";353
+458;"Olímpio Noronha";353
+459;"Fervedouro";355
+460;"Serra Azul de Minas";355
+461;"Carmo do Rio Claro";356
+462;"Felício dos Santos";356
+463;"Santa Maria do Suaçuí";357
+464;"Turvolândia";357
+465;"Recreio";358
+466;"Serrania";358
+467;"Faria Lemos";359
+468;"Chalé";360
+469;"Estrela D Alva";360
+470;"Araxá";362
+471;"Caiana";363
+472;"Seritinga";363
+473;"Ipanema";366
+474;"Palma";366
+475;"São Sebastião da Bela Vista";366
+476;"Senador Modestino Gonçalves";366
+477;"Baependi";367
+478;"Santo Antônio do Aventureiro";367
+479;"Itaú de Minas";369
+480;"Serranos";369
+481;"Areado";370
+482;"Bom Jesus da Penha";370
+483;"Natércia";370
+484;"Pirapetinga";370
+485;"São Sebastião do Rio Verde";370
+486;"Água Boa";371
+487;"Francisco Dumont";371
+488;"Heliodora";371
+489;"Marilac";371
+490;"Coluna";372
+491;"Frei Inocêncio";372
+492;"Tombos";372
+493;"Carmo de Minas";373
+494;"São Francisco do Glória";373
+495;"Conceição de Ipanema";374
+496;"Vieiras";374
+497;"Carvalhos";375
+498;"Caxambu";375
+499;"Fama";375
+500;"Matias Lobato";375
+501;"São Gonçalo do Abaeté";376
+502;"Tumiritinga";376
+503;"Fortaleza de Minas";378
+504;"Machado";378
+505;"Nova Resende";378
+506;"Bocaiúva";379
+507;"Além Paraíba";380
+508;"São José da Safira";380
+509;"Pouso Alto";381
+510;"Alterosa";382
+511;"Taparuba";382
+512;"Lagoa Formosa";383
+513;"Pedra Dourada";384
+514;"Divino das Laranjeiras";385
+515;"Galiléia";385
+516;"Itamarandiba";385
+517;"São Sebastião do Maranhão";385
+518;"Carvalhópolis";387
+519;"Santa Rita de Jacutinga";387
+520;"Coroaci";388
+521;"Itamonte";388
+522;"Poço Fundo";388
+523;"Pratápolis";388
+524;"Bocaina de Minas";390
+525;"Monte Belo";390
+526;"Pouso Alegre";390
+527;"São Lourenço";390
+528;"São Pedro da União";390
+529;"Nacip Raydan";393
+530;"Patos de Minas";393
+531;"Varjão de Minas";393
+532;"Aiuruoca";394
+533;"Itanhandu";394
+534;"Passa Vinte";394
+535;"Cristina";396
+536;"Virgolândia";396
+537;"Campanário";397
+538;"Mutum";397
+539;"São Sebastião do Paraíso";397
+540;"Conceição das Pedras";398
+541;"São Félix de Minas";398
+542;"Cássia";399
+543;"Dom Viçoso";400
+544;"Jampruca";400
+545;"João Pinheiro";400
+546;"Conceição da Aparecida";401
+547;"Mendes Pimentel";401
+548;"Volta Grande";401
+549;"Serra do Salitre";402
+550;"Congonhal";403
+551;"Pocrane";403
+552;"Divisa Nova";404
+553;"Santa Rita do Sapucaí";404
+554;"Conselheiro Pena";405
+555;"Lagoa dos Patos";406
+556;"Guaraciama";410
+557;"Muzambinho";410
+558;"Cachoeira de Minas";411
+559;"Eugenópolis";411
+560;"Espírito Santo do Dourado";412
+561;"Estiva";412
+562;"Patrocínio";412
+563;"Jequitaí";413
+564;"São João da Mata";413
+565;"Ibiaí";414
+566;"São José do Alegre";414
+567;"Central de Minas";415
+568;"São Geraldo do Baixio";416
+569;"São José do Divino";416
+570;"Borda da Mata";418
+571;"Santa Rita do Itueto";418
+572;"Tocos do Moji";418
+573;"Silvianópolis";419
+574;"Campestre";420
+575;"Itambacuri";420
+576;"Antônio Prado de Minas";421
+577;"Carbonita";421
+578;"Olhos D Água";421
+579;"Senador José Bento";421
+580;"Conceição dos Ouros";422
+581;"Patrocínio do Muriaé";422
+582;"Pedralva";422
+583;"Cabo Verde";423
+584;"Capetinga";423
+585;"Jacuí";423
+586;"Ibiraci";424
+587;"Montes Claros";424
+588;"Perdizes";425
+589;"Cruzeiro da Fortaleza";426
+590;"Itamogi";426
+591;"Capelinha";427
+592;"São Tomás de Aquino";428
+593;"Marmelópolis";429
+594;"Monte Santo de Minas";429
+595;"Brasópolis";430
+596;"Cambuí";430
+597;"Delfinópolis";430
+598;"Itabirinha de Mantena";430
+599;"Ponto Chique";430
+600;"Tapira";430
+601;"Alagoa";432
+602;"Ipuiúna";432
+603;"São João do Manteninha";432
+604;"Presidente Olegário";433
+605;"Itacambira";434
+606;"Piranguinho";434
+607;"Barão de Monte Alto";435
+608;"Bom Repouso";435
+609;"Guaranésia";435
+610;"Virgínia";435
+611;"Córrego do Bom Jesus";436
+612;"Cuparaque";436
+613;"Itueta";436
+614;"Juruaia";437
+615;"Passa Quatro";437
+616;"Pescador";438
+617;"Paraisópolis";439
+618;"São João da Lagoa";439
+619;"Guaxupé";440
+620;"Goiabeira";441
+621;"Bandeira do Sul";443
+622;"Camanducaia";443
+623;"Gonçalves";443
+624;"Inconfidentes";443
+625;"Itajubá";443
+626;"Campo Azul";445
+627;"Guimarânia";445
+628;"Nova Belém";445
+629;"Ouro Fino";445
+630;"Santa Rita de Caldas";445
+631;"Senador Amaral";445
+632;"Angelândia";446
+633;"Sapucaí-Mirim";448
+634;"Pedrinópolis";449
+635;"Frei Gaspar";450
+636;"Arceburgo";451
+637;"Aricanduva";451
+638;"Botelhos";451
+639;"Resplendor";454
+640;"Santa Juliana";454
+641;"Consolação";456
+642;"Piranguçu";457
+643;"Juramento";458
+644;"Nova Módica";458
+645;"Glaucilândia";459
+646;"Itapeva";459
+647;"Mantena";461
+648;"Poços de Caldas";461
+649;"Sacramento";462
+650;"Santa Fé de Minas";462
+651;"Aimorés";464
+652;"Bueno Brandão";464
+653;"Claro dos Poções";464
+654;"Veredinha";464
+655;"Lagoa Grande";466
+656;"Maria da Fé";466
+657;"Wenceslau Braz";466
+658;"Claraval";467
+659;"Ibitiúra de Minas";468
+660;"Ouro Verde de Minas";468
+661;"Setubinha";468
+662;"Munhoz";471
+663;"Turmalina";471
+664;"Delfim Moreira";472
+665;"Teófilo Otoni";472
+666;"Iraí de Minas";474
+667;"Jacutinga";474
+668;"Albertina";476
+669;"Romaria";476
+670;"Monte Sião";478
+671;"Uberaba";478
+672;"Caldas";480
+673;"Extrema";482
+674;"Toledo";484
+675;"Nova Ponte";485
+676;"Conquista";486
+677;"Coração de Jesus";487
+678;"Francisco Sá";489
+679;"Capitão Enéas";494
+680;"Monte Carmelo";494
+681;"Novo Cruzeiro";494
+682;"Mirabela";500
+683;"Abadia dos Dourados";505
+684;"Estrela do Sul";505
+685;"Andradas";506
+686;"Minas Novas";506
+687;"Paracatu";506
+688;"Chapada do Norte";507
+689;"José Gonçalves de Minas";509
+690;"Lagamar";509
+691;"Delta";515
+692;"Catuji";518
+693;"Poté";519
+694;"São João do Pacuí";519
+695;"São Romão";521
+696;"Veríssimo";523
+697;"Ataléia";525
+698;"Botumirim";525
+699;"Ladainha";526
+700;"Novo Oriente de Minas";528
+701;"Berilo";529
+702;"Grupiara";532
+703;"Indianópolis";532
+704;"Itaipé";532
+705;"Água Comprida";535
+706;"Vazante";536
+707;"Brasília de Minas";537
+708;"Coromandel";537
+709;"Uberlândia";538
+710;"Brasilândia de Minas";542
+711;"Douradoquara";543
+712;"Japonvar";543
+713;"Janaúba";545
+714;"Patis";546
+715;"Cristália";548
+716;"Conceição das Alagoas";550
+717;"Campo Florido";551
+718;"Bonfinópolis de Minas";552
+719;"Lontra";552
+720;"Malacacheta";553
+721;"Cascalho Rico";554
+722;"Francisco Badaró";554
+723;"Jenipapo de Minas";554
+724;"Franciscópolis";555
+725;"Dom Bosco";556
+726;"Pavão";558
+727;"Padre Paraíso";561
+728;"Araguari";566
+729;"Nova Porteirinha";570
+730;"São João da Ponte";571
+731;"Caraí";572
+732;"Grão Mogol";573
+733;"Guarda-Mor";573
+734;"Pirajuba";575
+735;"Luislândia";578
+736;"Carlos Chagas";582
+737;"Coronel Murta";585
+738;"Riachinho";589
+739;"Crisólita";590
+740;"Planura";592
+741;"Porteirinha";592
+742;"Icaraí de Minas";594
+743;"Ubaí";594
+744;"Riacho dos Machados";595
+745;"Verdelândia";595
+746;"Varzelândia";598
+747;"Pedras de Maria da Cruz";599
+748;"São Francisco";599
+749;"Serranópolis de Minas";600
+750;"Ibiracatu";602
+751;"Unaí";603
+752;"Ponto dos Volantes";605
+753;"Nanuque";608
+754;"Padre Carvalho";608
+755;"Pai Pedro";610
+756;"Águas Formosas";613
+757;"Januária";613
+758;"Comendador Gomes";614
+759;"Fruta de Leite";615
+760;"Frutal";618
+761;"Josenópolis";618
+762;"Urucuia";625
+763;"Mato Verde";628
+764;"Monte Alegre de Minas";630
+765;"Serra dos Aimorés";631
+766;"Tupaciguara";632
+767;"Jaíba";633
+768;"Machacalis";635
+769;"Prata";635
+770;"Fronteira dos Vales";636
+771;"Itaobim";637
+772;"Pintópolis";639
+773;"Salinas";639
+774;"Catuti";640
+775;"Itinga";642
+776;"Joaíma";645
+777;"Monte Formoso";647
+778;"Natalândia";647
+779;"Cônego Marinho";650
+780;"Bertópolis";655
+781;"Itacarambi";656
+782;"Umburatiba";656
+783;"Canápolis";657
+784;"Monte Azul";657
+785;"Santa Helena de Minas";657
+786;"Bonito de Minas";661
+787;"Cachoeira de Pajeú";661
+788;"Medina";661
+789;"Fronteira";662
+790;"Centralina";663
+791;"Mamonas";664
+792;"Santa Cruz de Salinas";665
+793;"Ituiutaba";672
+794;"Divisópolis";674
+795;"Itapagipe";674
+796;"São João das Missões";676
+797;"Campina Verde";677
+798;"Rubelita";678
+799;"Novorizonte";682
+800;"Araçuaí";684
+801;"Taiobeiras";684
+802;"Comercinho";686
+803;"Cabeceira Grande";687
+804;"Espinosa";688
+805;"Jequitinhonha";690
+806;"Indaiabira";694
+807;"Matias Cardoso";698
+808;"Palmópolis";702
+809;"Araporã";705
+810;"Gameleiras";705
+811;"Santo Antônio do Retiro";708
+812;"Pedra Azul";710
+813;"Uruana de Minas";711
+814;"São Francisco de Sales";716
+815;"Mata Verde";720
+816;"Virgem da Lapa";721
+817;"Almenara";725
+818;"Capinópolis";725
+819;"Manga";725
+820;"Chapada Gaúcha";730
+821;"Curral de Dentro";731
+822;"Rio Pardo de Minas";731
+823;"Felisburgo";737
+824;"Águas Vermelhas";740
+825;"Arinos";746
+826;"Bandeira";746
+827;"Divisa Alegre";752
+828;"Cachoeira Dourada";758
+829;"Berizal";760
+830;"Buritis";760
+831;"Rio do Prado";761
+832;"Rubim";762
+833;"Santa Vitória";764
+834;"São João do Paraíso";764
+835;"Iturama";765
+836;"Montalvânia";767
+837;"Gurinhatã";772
+838;"Ipiaçu";773
+839;"Formoso";776
+840;"Jacinto";777
+841;"Montezuma";780
+842;"Vargem Grande do Rio Pardo";791
+843;"Ninheira";798
+844;"União de Minas";801
+845;"Jordânia";803
+846;"Santo Antônio do Jacinto";812
+847;"Santa Maria do Salto";816
+848;"Miravânia";818
+849;"Juvenília";819
+850;"Carneirinho";822
+851;"Salto da Divisa";827
+852;"Limeira do Oeste";848

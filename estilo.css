@@ -1,0 +1,81 @@
+body{
+    background-color: b3b3b33b;
+    
+}
+#corpo{
+    margin: 0 auto;
+    width: 85%;
+    height: 100%;
+    min-height: 500px;
+    border-radius: 4px;
+    padding: 0 0 20px 0;
+    background: url("imagens/MapaMinas.jpg") no-repeat #f6f6f6;
+    background-position: top right;
+}
+#corpo h1{
+    padding: 20px 0 0px 0;
+    text-align: center;
+    font-size: 36px;
+    color: #817e7e;
+}
+#corpo h3{
+        text-align: center;
+        font-size: 18px;
+}
+#formulario{
+    width: 700px;
+    height: 100px;
+    background-color: #ece8e8a8;
+    margin: 0 auto;
+    padding: 10px 0 0 0;
+    border-radius: 5px;
+}
+#formulario label{
+    width: 100%;
+    margin: 0 0 5px 5px;
+    font-size: 18px;
+}
+#formulario input{
+    width: 98%;
+    height: 20px;
+    margin: 0 0 5px 5px;
+    border-radius: 5px;
+}
+.distancia:focus{
+    background-color: #c4cdd1;
+}
+#formulario input.pesquisar{
+    width: 100px;
+    height: 30px;
+    background-color: #298505d5;
+    color: #ffffff;
+    border-radius: 10px;
+    border: 1px groove #298505d5;
+    font-size: 16px;
+    float: right;
+}
+#formulario input.limpar{
+    width: 100px;
+    height: 30px;
+    background-color: #f84336;
+    color: #ffffff;
+    border-radius: 10px;
+    border: 1px groove #f88436;
+    font-size: 16px;
+    float: right;
+}
+table{
+    margin: 10px 0 0 10px;
+}
+table td{
+    width: 250px;
+}
+#volta{
+    margin:0 0 0 10px;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: blue;
+    color: #ffffff;
+    border: 1px groove blue;
+}
